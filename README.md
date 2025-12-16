@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kaydso — Predict. Prepare. Protect.
 
 **Kaydso** is a government-focused early warning system designed to predict and mitigate drought, water scarcity, and food storage risks before they become crises. This platform connects data, communities, and decision-makers to ensure rapid response and transparency.
@@ -77,3 +78,6 @@ This project is proprietary software designed for government and NGO use. All ri
 
 ---
 *Built with ❤️ for a resilient Future By Kaydso Team.*
+=======
+# Kaydso-Site
+>>>>>>> 67f19b12bba736603d3e3418a030166992dc7cde
